@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ramp-car-vs-police-chase-psm",
+    "thumbnail": "https://PixelZapRush.github.io/images/300.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slime-farm",
+    "thumbnail": "https://PixelZapRush.github.io/images/301.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://PixelZapRush.github.io/images/302.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dear-island",
+    "thumbnail": "https://PixelZapRush.github.io/images/303.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stardom-alt-girls-fashion-duel",
+    "thumbnail": "https://PixelZapRush.github.io/images/304.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "theo-morinis-magical-resort",
+    "thumbnail": "https://PixelZapRush.github.io/images/305.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "racing-ball-adventure",
+    "thumbnail": "https://PixelZapRush.github.io/images/306.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "fish-out-of-water",
+    "thumbnail": "https://PixelZapRush.github.io/images/307.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "savage-defenders",
+    "thumbnail": "https://PixelZapRush.github.io/images/308.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "gun-shooting-games-sniper-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/309.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "key-quest",
+    "thumbnail": "https://PixelZapRush.github.io/images/310.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "no-pain-no-gain-ragdoll-sandbox",
+    "thumbnail": "https://PixelZapRush.github.io/images/311.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bloom-within-a-life-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/312.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/313.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://PixelZapRush.github.io/images/314.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "world-soccer",
+    "thumbnail": "https://PixelZapRush.github.io/images/315.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "fish-love-pins",
+    "thumbnail": "https://PixelZapRush.github.io/images/316.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-tap-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/317.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toy-claw-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/318.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/319.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://PixelZapRush.github.io/images/320.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "suitable-outfit-dressup",
+    "thumbnail": "https://PixelZapRush.github.io/images/321.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "paper-doll-diary-chibi-dolls",
+    "thumbnail": "https://PixelZapRush.github.io/images/322.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "revoxel-3d-voxel-rpg-shooter",
+    "thumbnail": "https://PixelZapRush.github.io/images/323.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/324.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "fishing-the-russian-way",
+    "thumbnail": "https://PixelZapRush.github.io/images/325.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "grandma-with-machine-gun-apocalypsis",
+    "thumbnail": "https://PixelZapRush.github.io/images/326.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "neon-blast",
+    "thumbnail": "https://PixelZapRush.github.io/images/327.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cupid-unchained",
+    "thumbnail": "https://PixelZapRush.github.io/images/328.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "smash-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/329.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "number-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/330.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://PixelZapRush.github.io/images/331.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "italian-brainrot-in-geometry-dash",
+    "thumbnail": "https://PixelZapRush.github.io/images/332.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "tung-sahur-coloring",
+    "thumbnail": "https://PixelZapRush.github.io/images/333.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "labubu-merge-clicker",
+    "thumbnail": "https://PixelZapRush.github.io/images/334.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "last-ufo-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/335.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://PixelZapRush.github.io/images/336.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-mob-clash-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/337.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-world-holeio",
+    "thumbnail": "https://PixelZapRush.github.io/images/338.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://PixelZapRush.github.io/images/339.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "hexa-stack",
+    "thumbnail": "https://PixelZapRush.github.io/images/340.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "scary-shawarma-kiosk-the-anomaly",
+    "thumbnail": "https://PixelZapRush.github.io/images/341.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "snake-masters",
+    "thumbnail": "https://PixelZapRush.github.io/images/342.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "daily-jewels-blitz-mahjong",
+    "thumbnail": "https://PixelZapRush.github.io/images/343.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unblock-it-atlantis",
+    "thumbnail": "https://PixelZapRush.github.io/images/344.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "boat-mania",
+    "thumbnail": "https://PixelZapRush.github.io/images/345.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "slippery-drift-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/346.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fashion-heroes-academy",
+    "thumbnail": "https://PixelZapRush.github.io/images/347.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-eeaster-bunnies",
+    "thumbnail": "https://PixelZapRush.github.io/images/348.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://PixelZapRush.github.io/images/349.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "energy-factory-idle",
+    "thumbnail": "https://PixelZapRush.github.io/images/350.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://PixelZapRush.github.io/images/351.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://PixelZapRush.github.io/images/352.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "superpixelint",
+    "thumbnail": "https://PixelZapRush.github.io/images/353.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://PixelZapRush.github.io/images/354.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "block-merge-city",
+    "thumbnail": "https://PixelZapRush.github.io/images/355.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sum-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/356.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://PixelZapRush.github.io/images/357.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://PixelZapRush.github.io/images/358.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "xytrian-runner",
+    "thumbnail": "https://PixelZapRush.github.io/images/359.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "association-connect-word",
+    "thumbnail": "https://PixelZapRush.github.io/images/360.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "home-block-story",
+    "thumbnail": "https://PixelZapRush.github.io/images/361.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/362.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-blast",
+    "thumbnail": "https://PixelZapRush.github.io/images/363.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fnf-unblocked-italian-brainrot",
+    "thumbnail": "https://PixelZapRush.github.io/images/364.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chocolate-dream-idle-factory",
+    "thumbnail": "https://PixelZapRush.github.io/images/365.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "happy-asmr-care",
+    "thumbnail": "https://PixelZapRush.github.io/images/366.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dark-academia-wedding",
+    "thumbnail": "https://PixelZapRush.github.io/images/367.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hide-and-luig",
+    "thumbnail": "https://PixelZapRush.github.io/images/368.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "stickman-rescue-draw-2-save",
+    "thumbnail": "https://PixelZapRush.github.io/images/369.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shoot-2048-hexa",
+    "thumbnail": "https://PixelZapRush.github.io/images/370.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-classic",
+    "thumbnail": "https://PixelZapRush.github.io/images/371.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "arcade-gp",
+    "thumbnail": "https://PixelZapRush.github.io/images/372.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "backrooms",
+    "thumbnail": "https://PixelZapRush.github.io/images/373.webp",
+    "genre": "Puzzle, Battle"
+  },
+  {
+    "id": "feet-doctor-urgency-care",
+    "thumbnail": "https://PixelZapRush.github.io/images/374.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "sprunki-garden",
+    "thumbnail": "https://PixelZapRush.github.io/images/375.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "basketball-life-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/376.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "click-kitty-idle",
+    "thumbnail": "https://PixelZapRush.github.io/images/377.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "woody-hexa",
+    "thumbnail": "https://PixelZapRush.github.io/images/378.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "barbee-met-gala-transformation",
+    "thumbnail": "https://PixelZapRush.github.io/images/379.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "latutu-holiday-gift-hunt",
+    "thumbnail": "https://PixelZapRush.github.io/images/380.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lava-jump",
+    "thumbnail": "https://PixelZapRush.github.io/images/381.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "volley-beans-volleyball-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/382.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "stickman-fight-pro",
+    "thumbnail": "https://PixelZapRush.github.io/images/383.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "bubble-shooter-ultimate",
+    "thumbnail": "https://PixelZapRush.github.io/images/384.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "block-craft-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/385.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "road-digging-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/386.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-wonders-of-egypt",
+    "thumbnail": "https://PixelZapRush.github.io/images/387.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "merge-smith",
+    "thumbnail": "https://PixelZapRush.github.io/images/388.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stellar-fusion",
+    "thumbnail": "https://PixelZapRush.github.io/images/389.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "closed-city",
+    "thumbnail": "https://PixelZapRush.github.io/images/390.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "beach-club",
+    "thumbnail": "https://PixelZapRush.github.io/images/391.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-drop",
+    "thumbnail": "https://PixelZapRush.github.io/images/392.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "asmr-water-vs-fire",
+    "thumbnail": "https://PixelZapRush.github.io/images/393.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sailor-chic-vs-pirate-charm",
+    "thumbnail": "https://PixelZapRush.github.io/images/394.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "impostor-among-us-escape-from-prison",
+    "thumbnail": "https://PixelZapRush.github.io/images/395.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "brain-test-iq-challenge-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/396.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "online-cats-multiplayer-park",
+    "thumbnail": "https://PixelZapRush.github.io/images/397.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "elemental-gloves-magic-power",
+    "thumbnail": "https://PixelZapRush.github.io/images/398.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cat-evolution-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/399.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "suika-watermelon-drop",
+    "thumbnail": "https://PixelZapRush.github.io/images/400.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://PixelZapRush.github.io/images/401.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://PixelZapRush.github.io/images/402.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "obby-tsunami-escape-1-by-car",
+    "thumbnail": "https://PixelZapRush.github.io/images/403.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "survival-island",
+    "thumbnail": "https://PixelZapRush.github.io/images/404.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bffs-golden-hour",
+    "thumbnail": "https://PixelZapRush.github.io/images/405.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brainrot-clicker",
+    "thumbnail": "https://PixelZapRush.github.io/images/406.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-up",
+    "thumbnail": "https://PixelZapRush.github.io/images/407.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-yard-sale",
+    "thumbnail": "https://PixelZapRush.github.io/images/408.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "slingshot-fortress",
+    "thumbnail": "https://PixelZapRush.github.io/images/409.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://PixelZapRush.github.io/images/410.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "satisdom",
+    "thumbnail": "https://PixelZapRush.github.io/images/411.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "the-office-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/412.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sheep-vs-wolf",
+    "thumbnail": "https://PixelZapRush.github.io/images/413.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "parking-fury-3d-beach-city-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/414.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://PixelZapRush.github.io/images/415.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-arcade-center-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/416.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sprunki-find-the-differences",
+    "thumbnail": "https://PixelZapRush.github.io/images/417.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-bottles",
+    "thumbnail": "https://PixelZapRush.github.io/images/418.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shopaholic-black-friday",
+    "thumbnail": "https://PixelZapRush.github.io/images/419.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://PixelZapRush.github.io/images/420.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "italian-brainrot-survive-parkour",
+    "thumbnail": "https://PixelZapRush.github.io/images/421.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stickman-battle-1-4-players",
+    "thumbnail": "https://PixelZapRush.github.io/images/422.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "gross-out-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/423.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://PixelZapRush.github.io/images/424.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "driftclicker",
+    "thumbnail": "https://PixelZapRush.github.io/images/425.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hidden-objects-bakery",
+    "thumbnail": "https://PixelZapRush.github.io/images/426.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "lights-out",
+    "thumbnail": "https://PixelZapRush.github.io/images/427.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "papa-buzja",
+    "thumbnail": "https://PixelZapRush.github.io/images/428.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gun-match-screw",
+    "thumbnail": "https://PixelZapRush.github.io/images/429.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://PixelZapRush.github.io/images/430.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "hero-ragdoll-fighting",
+    "thumbnail": "https://PixelZapRush.github.io/images/431.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rope-rescue-unique-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/432.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://PixelZapRush.github.io/images/433.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://PixelZapRush.github.io/images/434.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://PixelZapRush.github.io/images/435.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "perfect-piano-magic",
+    "thumbnail": "https://PixelZapRush.github.io/images/436.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "dolphin-couple-underwater-dress-up",
+    "thumbnail": "https://PixelZapRush.github.io/images/437.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/438.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "style-icons-2024-rewind-edition",
+    "thumbnail": "https://PixelZapRush.github.io/images/439.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "age-of-apes-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/440.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/441.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "hidden-object-my-hotel",
+    "thumbnail": "https://PixelZapRush.github.io/images/442.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://PixelZapRush.github.io/images/443.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "noob-skyblock-survival",
+    "thumbnail": "https://PixelZapRush.github.io/images/444.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "bubble-ball",
+    "thumbnail": "https://PixelZapRush.github.io/images/445.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bank-boom-tung-tung-sahur",
+    "thumbnail": "https://PixelZapRush.github.io/images/446.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "hidden-objects-crime-scene",
+    "thumbnail": "https://PixelZapRush.github.io/images/447.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ball-dunk-fall",
+    "thumbnail": "https://PixelZapRush.github.io/images/448.webp",
+    "genre": "Football, Basketball"
+  },
+  {
+    "id": "airport-controller",
+    "thumbnail": "https://PixelZapRush.github.io/images/449.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "hide-and-seek-blue-monster",
+    "thumbnail": "https://PixelZapRush.github.io/images/450.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stick-boy-bazooka-ragdoll",
+    "thumbnail": "https://PixelZapRush.github.io/images/451.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "challenger-city-driver",
+    "thumbnail": "https://PixelZapRush.github.io/images/452.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fierce-battle-breakout",
+    "thumbnail": "https://PixelZapRush.github.io/images/453.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "metal-bay-top-blade-power",
+    "thumbnail": "https://PixelZapRush.github.io/images/454.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "knit-bears",
+    "thumbnail": "https://PixelZapRush.github.io/images/455.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://PixelZapRush.github.io/images/456.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bottle-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/457.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "two-rx7-drifters",
+    "thumbnail": "https://PixelZapRush.github.io/images/458.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/459.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blob-hero",
+    "thumbnail": "https://PixelZapRush.github.io/images/460.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "quiz-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/461.webp",
+    "genre": "Casual, Quiz"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://PixelZapRush.github.io/images/462.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/463.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://PixelZapRush.github.io/images/464.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unicorn-find-the-differences",
+    "thumbnail": "https://PixelZapRush.github.io/images/465.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://PixelZapRush.github.io/images/466.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "only-up-balls",
+    "thumbnail": "https://PixelZapRush.github.io/images/467.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "jewel-solitaire-tripeaks",
+    "thumbnail": "https://PixelZapRush.github.io/images/468.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "idle-bank",
+    "thumbnail": "https://PixelZapRush.github.io/images/469.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/470.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "qube-2048",
+    "thumbnail": "https://PixelZapRush.github.io/images/471.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "school-simulator-my-school",
+    "thumbnail": "https://PixelZapRush.github.io/images/472.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "obby-climb-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/473.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://PixelZapRush.github.io/images/474.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "catch-a-fish-obby",
+    "thumbnail": "https://PixelZapRush.github.io/images/475.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://PixelZapRush.github.io/images/476.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "survival-in-area-51",
+    "thumbnail": "https://PixelZapRush.github.io/images/477.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "hill-racing-egg-drop",
+    "thumbnail": "https://PixelZapRush.github.io/images/478.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "queen-of-mahjong",
+    "thumbnail": "https://PixelZapRush.github.io/images/479.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "christmas-snowball-arena",
+    "thumbnail": "https://PixelZapRush.github.io/images/480.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://PixelZapRush.github.io/images/481.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/482.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "duck-luck",
+    "thumbnail": "https://PixelZapRush.github.io/images/483.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "money-chaser-city-parkour-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/484.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "backgammon-duel",
+    "thumbnail": "https://PixelZapRush.github.io/images/485.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "2-player-online-chess",
+    "thumbnail": "https://PixelZapRush.github.io/images/486.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://PixelZapRush.github.io/images/487.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "emoji-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/488.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "atomic-merge-2048",
+    "thumbnail": "https://PixelZapRush.github.io/images/489.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "scala-40",
+    "thumbnail": "https://PixelZapRush.github.io/images/490.webp",
+    "genre": "Boardgames, Cards"
+  },
+  {
+    "id": "radiant-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/491.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://PixelZapRush.github.io/images/492.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/493.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "imposter-coloring-book",
+    "thumbnail": "https://PixelZapRush.github.io/images/494.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://PixelZapRush.github.io/images/495.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merry-christmas-connect",
+    "thumbnail": "https://PixelZapRush.github.io/images/496.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "poppytile",
+    "thumbnail": "https://PixelZapRush.github.io/images/497.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wednesday-dark-academia",
+    "thumbnail": "https://PixelZapRush.github.io/images/498.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stalker-strike",
+    "thumbnail": "https://PixelZapRush.github.io/images/499.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://PixelZapRush.github.io/images/500.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "turbo-race",
+    "thumbnail": "https://PixelZapRush.github.io/images/501.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "geometry-stars",
+    "thumbnail": "https://PixelZapRush.github.io/images/502.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://PixelZapRush.github.io/images/503.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tap-to-color-painting-book",
+    "thumbnail": "https://PixelZapRush.github.io/images/504.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-escape-prison-rat-dance",
+    "thumbnail": "https://PixelZapRush.github.io/images/505.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-rodeo-multiplication",
+    "thumbnail": "https://PixelZapRush.github.io/images/506.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "ladder-master-color-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/507.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-traffic-racer",
+    "thumbnail": "https://PixelZapRush.github.io/images/508.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "disk-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/509.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "butterfly-kyodai-deluxe-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/510.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "merge-car-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/511.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hotfoot-baseball",
+    "thumbnail": "https://PixelZapRush.github.io/images/512.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "hexa-block-honey-cells",
+    "thumbnail": "https://PixelZapRush.github.io/images/513.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://PixelZapRush.github.io/images/514.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "traffic-jam-hop-on",
+    "thumbnail": "https://PixelZapRush.github.io/images/515.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-objects-story",
+    "thumbnail": "https://PixelZapRush.github.io/images/516.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://PixelZapRush.github.io/images/517.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-dodge",
+    "thumbnail": "https://PixelZapRush.github.io/images/518.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ants-party",
+    "thumbnail": "https://PixelZapRush.github.io/images/519.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shiny-jewels",
+    "thumbnail": "https://PixelZapRush.github.io/images/520.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://PixelZapRush.github.io/images/521.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "survival-on-raft-multiplayer",
+    "thumbnail": "https://PixelZapRush.github.io/images/522.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "black-cat-stacking-pop",
+    "thumbnail": "https://PixelZapRush.github.io/images/523.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "space-shift",
+    "thumbnail": "https://PixelZapRush.github.io/images/524.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-race-obby",
+    "thumbnail": "https://PixelZapRush.github.io/images/525.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "headless-joe",
+    "thumbnail": "https://PixelZapRush.github.io/images/526.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-and-treasures-fun-adventure",
+    "thumbnail": "https://PixelZapRush.github.io/images/527.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cashier-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/528.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stickman-kombat-2d",
+    "thumbnail": "https://PixelZapRush.github.io/images/529.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "sandbox-destroy-the-ragdoll",
+    "thumbnail": "https://PixelZapRush.github.io/images/530.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tile-adventure",
+    "thumbnail": "https://PixelZapRush.github.io/images/531.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "billythebox",
+    "thumbnail": "https://PixelZapRush.github.io/images/532.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/533.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "malatang-master-stack-run-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/534.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://PixelZapRush.github.io/images/535.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "hexa-sort-winter-edition",
+    "thumbnail": "https://PixelZapRush.github.io/images/536.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "daring-jack",
+    "thumbnail": "https://PixelZapRush.github.io/images/537.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://PixelZapRush.github.io/images/538.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://PixelZapRush.github.io/images/539.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "antistress-simulator-of-sequins-diy",
+    "thumbnail": "https://PixelZapRush.github.io/images/540.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hit-ball",
+    "thumbnail": "https://PixelZapRush.github.io/images/541.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-rescue-mission",
+    "thumbnail": "https://PixelZapRush.github.io/images/542.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://PixelZapRush.github.io/images/543.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mahjong-lines",
+    "thumbnail": "https://PixelZapRush.github.io/images/544.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "merge-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/545.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-object-street-of-secrets",
+    "thumbnail": "https://PixelZapRush.github.io/images/546.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "golf-mini",
+    "thumbnail": "https://PixelZapRush.github.io/images/547.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "earth-defender",
+    "thumbnail": "https://PixelZapRush.github.io/images/548.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-blast-2048",
+    "thumbnail": "https://PixelZapRush.github.io/images/549.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/550.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://PixelZapRush.github.io/images/551.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "avenger-guard",
+    "thumbnail": "https://PixelZapRush.github.io/images/552.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "mojicon-winter-connect",
+    "thumbnail": "https://PixelZapRush.github.io/images/553.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://PixelZapRush.github.io/images/554.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "princess-vs-shark",
+    "thumbnail": "https://PixelZapRush.github.io/images/555.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://PixelZapRush.github.io/images/556.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "exit-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/557.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paint-pop-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/558.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "billiards-3d-russian-pyramid",
+    "thumbnail": "https://PixelZapRush.github.io/images/559.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "block-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/560.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "skip-love",
+    "thumbnail": "https://PixelZapRush.github.io/images/561.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squid-game-memory-card-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/562.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "press-a-to-party",
+    "thumbnail": "https://PixelZapRush.github.io/images/563.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/564.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "loop-ghost",
+    "thumbnail": "https://PixelZapRush.github.io/images/565.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-block-blast-3",
+    "thumbnail": "https://PixelZapRush.github.io/images/566.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "christmas-find-the-differences",
+    "thumbnail": "https://PixelZapRush.github.io/images/567.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://PixelZapRush.github.io/images/568.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "break-the-block-there-brainrot",
+    "thumbnail": "https://PixelZapRush.github.io/images/569.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://PixelZapRush.github.io/images/570.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cyberpunk-agent",
+    "thumbnail": "https://PixelZapRush.github.io/images/571.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://PixelZapRush.github.io/images/572.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://PixelZapRush.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "capybara-xmas-merge",
+    "thumbnail": "https://PixelZapRush.github.io/images/574.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dogs-vs-aliens",
+    "thumbnail": "https://PixelZapRush.github.io/images/575.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "flag-puzzle-jam-collect-flags",
+    "thumbnail": "https://PixelZapRush.github.io/images/576.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ink-inc-tattoo",
+    "thumbnail": "https://PixelZapRush.github.io/images/577.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-earth-evolution",
+    "thumbnail": "https://PixelZapRush.github.io/images/578.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "spellmind",
+    "thumbnail": "https://PixelZapRush.github.io/images/579.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "celebrity-wednesday-addams-style",
+    "thumbnail": "https://PixelZapRush.github.io/images/580.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://PixelZapRush.github.io/images/581.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "zombie-monster-survivors",
+    "thumbnail": "https://PixelZapRush.github.io/images/582.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "bubble-up",
+    "thumbnail": "https://PixelZapRush.github.io/images/583.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://PixelZapRush.github.io/images/584.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-prism-city-detectives",
+    "thumbnail": "https://PixelZapRush.github.io/images/585.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "dessert-diy",
+    "thumbnail": "https://PixelZapRush.github.io/images/586.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bullet-heroes",
+    "thumbnail": "https://PixelZapRush.github.io/images/587.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/588.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pull-the-pin-fish-rescue",
+    "thumbnail": "https://PixelZapRush.github.io/images/589.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-trick-or-treat",
+    "thumbnail": "https://PixelZapRush.github.io/images/590.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "real-car-parking-and-stunt",
+    "thumbnail": "https://PixelZapRush.github.io/images/591.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://PixelZapRush.github.io/images/592.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://PixelZapRush.github.io/images/593.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "ellie-and-friends-art-bloom-aesthetic",
+    "thumbnail": "https://PixelZapRush.github.io/images/594.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "offroad-island",
+    "thumbnail": "https://PixelZapRush.github.io/images/595.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "hide-ball",
+    "thumbnail": "https://PixelZapRush.github.io/images/596.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "butterfly-match-mastery",
+    "thumbnail": "https://PixelZapRush.github.io/images/597.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "dream-kitchen",
+    "thumbnail": "https://PixelZapRush.github.io/images/598.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "arrow-slide-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/599.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://PixelZapRush.github.io/images/600.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "asmr-washing-fixing",
+    "thumbnail": "https://PixelZapRush.github.io/images/601.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruitsland-escape-from-the-amusement-park",
+    "thumbnail": "https://PixelZapRush.github.io/images/602.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "let-the-train-go",
+    "thumbnail": "https://PixelZapRush.github.io/images/603.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickholeio",
+    "thumbnail": "https://PixelZapRush.github.io/images/604.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "walkers-attack",
+    "thumbnail": "https://PixelZapRush.github.io/images/605.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "traffic-cop-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/606.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "crazy-stunts-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/607.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fill-one-line",
+    "thumbnail": "https://PixelZapRush.github.io/images/608.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tile-living",
+    "thumbnail": "https://PixelZapRush.github.io/images/609.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-free-3",
+    "thumbnail": "https://PixelZapRush.github.io/images/610.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "scooter-touchgrind-tricks-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/611.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "port-shipping-tycoon",
+    "thumbnail": "https://PixelZapRush.github.io/images/612.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "deep-fishing",
+    "thumbnail": "https://PixelZapRush.github.io/images/613.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "texas-holdem-poker",
+    "thumbnail": "https://PixelZapRush.github.io/images/614.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "koi-fish-pond-idle-merge-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/615.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "chroma-tower",
+    "thumbnail": "https://PixelZapRush.github.io/images/616.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cute-relaxing-matching-3-tiles",
+    "thumbnail": "https://PixelZapRush.github.io/images/617.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sudoku-vault",
+    "thumbnail": "https://PixelZapRush.github.io/images/618.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "phone-case-diy-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/619.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "4-colors-card-mania",
+    "thumbnail": "https://PixelZapRush.github.io/images/620.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://PixelZapRush.github.io/images/621.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-panda-blast",
+    "thumbnail": "https://PixelZapRush.github.io/images/622.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "riders-downhill-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/623.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "madness-driver-vertigo-city",
+    "thumbnail": "https://PixelZapRush.github.io/images/624.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://PixelZapRush.github.io/images/625.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-business-saga",
+    "thumbnail": "https://PixelZapRush.github.io/images/626.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "cryptogram-word-brain-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/627.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "ocean-kids-back-to-school",
+    "thumbnail": "https://PixelZapRush.github.io/images/628.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "office-escape-to-date",
+    "thumbnail": "https://PixelZapRush.github.io/images/629.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mobile-legends-slime-3v3",
+    "thumbnail": "https://PixelZapRush.github.io/images/630.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "katana",
+    "thumbnail": "https://PixelZapRush.github.io/images/631.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://PixelZapRush.github.io/images/632.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "spa-empire",
+    "thumbnail": "https://PixelZapRush.github.io/images/633.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "nuts-stack-sort-nuts-bolts",
+    "thumbnail": "https://PixelZapRush.github.io/images/634.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://PixelZapRush.github.io/images/635.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://PixelZapRush.github.io/images/636.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "conduct-this",
+    "thumbnail": "https://PixelZapRush.github.io/images/637.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "princesses-of-quadrobics",
+    "thumbnail": "https://PixelZapRush.github.io/images/638.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "word-search-with-hints",
+    "thumbnail": "https://PixelZapRush.github.io/images/639.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "antistress-relaxation-box",
+    "thumbnail": "https://PixelZapRush.github.io/images/640.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "anaconda-runner",
+    "thumbnail": "https://PixelZapRush.github.io/images/641.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://PixelZapRush.github.io/images/642.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "gang-war-strike-shooter",
+    "thumbnail": "https://PixelZapRush.github.io/images/643.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "giant-crowd-io-house-capture",
+    "thumbnail": "https://PixelZapRush.github.io/images/644.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/645.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brick-game-classic",
+    "thumbnail": "https://PixelZapRush.github.io/images/646.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jewel-miner-quest",
+    "thumbnail": "https://PixelZapRush.github.io/images/647.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ultimate-yatzy",
+    "thumbnail": "https://PixelZapRush.github.io/images/648.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "grow-warsio",
+    "thumbnail": "https://PixelZapRush.github.io/images/649.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://PixelZapRush.github.io/images/650.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://PixelZapRush.github.io/images/651.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fortunes-deck-solitaire",
+    "thumbnail": "https://PixelZapRush.github.io/images/652.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://PixelZapRush.github.io/images/653.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mind-gambit",
+    "thumbnail": "https://PixelZapRush.github.io/images/654.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "math-duck",
+    "thumbnail": "https://PixelZapRush.github.io/images/655.webp",
+    "genre": "Cards, Educational"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://PixelZapRush.github.io/images/656.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "king-kong-kart-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/657.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "sudoku",
+    "thumbnail": "https://PixelZapRush.github.io/images/658.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/659.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://PixelZapRush.github.io/images/660.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hyper-knight",
+    "thumbnail": "https://PixelZapRush.github.io/images/661.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-shooter",
+    "thumbnail": "https://PixelZapRush.github.io/images/662.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "dragon-egg",
+    "thumbnail": "https://PixelZapRush.github.io/images/663.webp",
+    "genre": "Boardgames, Merge"
+  },
+  {
+    "id": "my-cat-restaurant",
+    "thumbnail": "https://PixelZapRush.github.io/images/664.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ragdoll-parkour-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/665.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "draw-to-smash-zombie",
+    "thumbnail": "https://PixelZapRush.github.io/images/666.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://PixelZapRush.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "clash-crowd-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/668.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "highschool-mean-girls-3",
+    "thumbnail": "https://PixelZapRush.github.io/images/669.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-cocktail",
+    "thumbnail": "https://PixelZapRush.github.io/images/670.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "escape-again",
+    "thumbnail": "https://PixelZapRush.github.io/images/671.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://PixelZapRush.github.io/images/672.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-kid-adventure",
+    "thumbnail": "https://PixelZapRush.github.io/images/673.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "clownfish-pin-out",
+    "thumbnail": "https://PixelZapRush.github.io/images/674.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cubica",
+    "thumbnail": "https://PixelZapRush.github.io/images/675.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "smart-dots-reloaded",
+    "thumbnail": "https://PixelZapRush.github.io/images/676.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-wolf",
+    "thumbnail": "https://PixelZapRush.github.io/images/677.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "daily-horoscope-hd",
+    "thumbnail": "https://PixelZapRush.github.io/images/678.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "knock-and-run-100-doors-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/679.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://PixelZapRush.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://PixelZapRush.github.io/images/681.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "make-ten-tiles",
+    "thumbnail": "https://PixelZapRush.github.io/images/682.webp",
+    "genre": "Educational, Merge"
+  },
+  {
+    "id": "big-bad-ape",
+    "thumbnail": "https://PixelZapRush.github.io/images/683.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://PixelZapRush.github.io/images/684.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "makeup-stack",
+    "thumbnail": "https://PixelZapRush.github.io/images/685.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "capybara-skewer-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/686.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gate-heroes-battle",
+    "thumbnail": "https://PixelZapRush.github.io/images/687.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pyramidz",
+    "thumbnail": "https://PixelZapRush.github.io/images/688.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "happy-glass-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/689.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "red-stickman-vs-monster-school",
+    "thumbnail": "https://PixelZapRush.github.io/images/690.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "perfect-asmr-cleaning",
+    "thumbnail": "https://PixelZapRush.github.io/images/691.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sweet-dessert-hole",
+    "thumbnail": "https://PixelZapRush.github.io/images/692.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-vs-zombie-apocalypse-shooting-pro",
+    "thumbnail": "https://PixelZapRush.github.io/images/693.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "trolley-fun",
+    "thumbnail": "https://PixelZapRush.github.io/images/694.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "summer-maze",
+    "thumbnail": "https://PixelZapRush.github.io/images/695.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "max-crusher-2-destruction-drift-and-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/696.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "block-puzzle-travel",
+    "thumbnail": "https://PixelZapRush.github.io/images/697.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fire-snake",
+    "thumbnail": "https://PixelZapRush.github.io/images/698.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://PixelZapRush.github.io/images/699.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://PixelZapRush.github.io/images/700.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "about-a-frog",
+    "thumbnail": "https://PixelZapRush.github.io/images/701.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "hex-sense",
+    "thumbnail": "https://PixelZapRush.github.io/images/702.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-restore-hidden-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/703.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-go",
+    "thumbnail": "https://PixelZapRush.github.io/images/704.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "chroma-trek",
+    "thumbnail": "https://PixelZapRush.github.io/images/705.webp",
+    "genre": "Agility, Strategy"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://PixelZapRush.github.io/images/706.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "monster-vs-zombie",
+    "thumbnail": "https://PixelZapRush.github.io/images/707.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://PixelZapRush.github.io/images/708.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "real-motorbike-simulator-race-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/709.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "russian-derby-crash",
+    "thumbnail": "https://PixelZapRush.github.io/images/710.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dynamons-7",
+    "thumbnail": "https://PixelZapRush.github.io/images/711.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "zen-mini-games-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/712.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://PixelZapRush.github.io/images/713.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "brainstorming-2d",
+    "thumbnail": "https://PixelZapRush.github.io/images/714.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "backrooms-among-impostor-rolling-giant",
+    "thumbnail": "https://PixelZapRush.github.io/images/715.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "cosmo-void",
+    "thumbnail": "https://PixelZapRush.github.io/images/716.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "flick-shot-soccer",
+    "thumbnail": "https://PixelZapRush.github.io/images/717.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "fashion-battle-for-survival",
+    "thumbnail": "https://PixelZapRush.github.io/images/718.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "sweet-haunt-2",
+    "thumbnail": "https://PixelZapRush.github.io/images/719.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shot-can-wild",
+    "thumbnail": "https://PixelZapRush.github.io/images/720.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "colorsforms",
+    "thumbnail": "https://PixelZapRush.github.io/images/721.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "avoid-the-spikes",
+    "thumbnail": "https://PixelZapRush.github.io/images/722.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pickle-ball-clash",
+    "thumbnail": "https://PixelZapRush.github.io/images/723.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "bark-blast",
+    "thumbnail": "https://PixelZapRush.github.io/images/724.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/725.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "little-master-of-assembly",
+    "thumbnail": "https://PixelZapRush.github.io/images/726.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "car-collision-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/727.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "merge-hero-survival-tower-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/728.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://PixelZapRush.github.io/images/729.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-squad-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/730.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-sort",
+    "thumbnail": "https://PixelZapRush.github.io/images/731.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pool-merge",
+    "thumbnail": "https://PixelZapRush.github.io/images/732.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "farm-mahjong-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/733.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "burger-day",
+    "thumbnail": "https://PixelZapRush.github.io/images/734.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://PixelZapRush.github.io/images/735.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "girly-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/736.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "epic-mine",
+    "thumbnail": "https://PixelZapRush.github.io/images/737.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "smartle",
+    "thumbnail": "https://PixelZapRush.github.io/images/738.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2048skill-edition",
+    "thumbnail": "https://PixelZapRush.github.io/images/739.webp",
+    "genre": "Shooter, Match-3"
+  },
+  {
+    "id": "supermarket-manager-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/740.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "thief-stick-puzzle-man-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/741.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "steampunk-tower-builder",
+    "thumbnail": "https://PixelZapRush.github.io/images/742.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "little-bugs",
+    "thumbnail": "https://PixelZapRush.github.io/images/743.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "knots",
+    "thumbnail": "https://PixelZapRush.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tripeaks-solitaire-escapes",
+    "thumbnail": "https://PixelZapRush.github.io/images/745.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "thread-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/746.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "guess-the-italian-brainrot-animals",
+    "thumbnail": "https://PixelZapRush.github.io/images/747.webp",
+    "genre": "Casual, Quiz"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://PixelZapRush.github.io/images/748.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://PixelZapRush.github.io/images/749.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/750.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "find-goods",
+    "thumbnail": "https://PixelZapRush.github.io/images/751.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "crowd-evolution",
+    "thumbnail": "https://PixelZapRush.github.io/images/752.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pesky-moles",
+    "thumbnail": "https://PixelZapRush.github.io/images/753.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "draw-bridge-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/754.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "fun-mini-games-for-princess",
+    "thumbnail": "https://PixelZapRush.github.io/images/755.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-drag-merge-puzzle",
+    "thumbnail": "https://PixelZapRush.github.io/images/756.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bouncy-barn",
+    "thumbnail": "https://PixelZapRush.github.io/images/757.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sprunki-quiz",
+    "thumbnail": "https://PixelZapRush.github.io/images/758.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "taxi-driver-simulator",
+    "thumbnail": "https://PixelZapRush.github.io/images/759.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "solitaire-farm-seasons-3",
+    "thumbnail": "https://PixelZapRush.github.io/images/760.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cards-2048",
+    "thumbnail": "https://PixelZapRush.github.io/images/761.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "hobo-speedster",
+    "thumbnail": "https://PixelZapRush.github.io/images/762.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mojicon-garden-jigsolitaire",
+    "thumbnail": "https://PixelZapRush.github.io/images/763.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "bolt-climb-tap-to-the-top",
+    "thumbnail": "https://PixelZapRush.github.io/images/764.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "schoolboy-runaway-room-escape",
+    "thumbnail": "https://PixelZapRush.github.io/images/765.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "hexon-rush",
+    "thumbnail": "https://PixelZapRush.github.io/images/766.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ninja-bamboo-assassin",
+    "thumbnail": "https://PixelZapRush.github.io/images/767.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "zombie-idle-defense",
+    "thumbnail": "https://PixelZapRush.github.io/images/768.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "art-master-origins",
+    "thumbnail": "https://PixelZapRush.github.io/images/769.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://PixelZapRush.github.io/images/770.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "chicken-wild-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/771.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mineblock-obby",
+    "thumbnail": "https://PixelZapRush.github.io/images/772.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "hex-triple-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/773.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-conquest-territory-war",
+    "thumbnail": "https://PixelZapRush.github.io/images/774.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "dream-room-makeover",
+    "thumbnail": "https://PixelZapRush.github.io/images/775.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://PixelZapRush.github.io/images/776.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://PixelZapRush.github.io/images/777.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "halloween-challenge",
+    "thumbnail": "https://PixelZapRush.github.io/images/778.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://PixelZapRush.github.io/images/779.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sprunki-match",
+    "thumbnail": "https://PixelZapRush.github.io/images/780.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "dream-restaurant-3d",
+    "thumbnail": "https://PixelZapRush.github.io/images/781.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "easter-style-junction-egg-hunt-extravaganza",
+    "thumbnail": "https://PixelZapRush.github.io/images/782.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "guivoio",
+    "thumbnail": "https://PixelZapRush.github.io/images/783.webp",
+    "genre": ".IO, Match-3"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://PixelZapRush.github.io/images/784.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "meme-mukbang-asmr-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/785.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "makeup-trends-then-and-now",
+    "thumbnail": "https://PixelZapRush.github.io/images/786.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "master-blender",
+    "thumbnail": "https://PixelZapRush.github.io/images/787.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "around-elbrus",
+    "thumbnail": "https://PixelZapRush.github.io/images/788.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jail-prison-van-police-game",
+    "thumbnail": "https://PixelZapRush.github.io/images/789.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "turbo-stunt-racing",
+    "thumbnail": "https://PixelZapRush.github.io/images/790.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "robot-terminator-t-rex",
+    "thumbnail": "https://PixelZapRush.github.io/images/791.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ball-craze-sort",
+    "thumbnail": "https://PixelZapRush.github.io/images/792.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "money-grabber",
+    "thumbnail": "https://PixelZapRush.github.io/images/793.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://PixelZapRush.github.io/images/794.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "college-girl-coloring-dress-up",
+    "thumbnail": "https://PixelZapRush.github.io/images/795.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "uncle-bullet-007",
+    "thumbnail": "https://PixelZapRush.github.io/images/796.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "crazy-traffic-control",
+    "thumbnail": "https://PixelZapRush.github.io/images/797.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pubg-hack",
+    "thumbnail": "https://PixelZapRush.github.io/images/798.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "digital-circus-run",
+    "thumbnail": "https://PixelZapRush.github.io/images/799.webp",
+    "genre": "Adventure, Agility"
+  }
+]

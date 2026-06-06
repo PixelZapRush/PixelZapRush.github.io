@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dress-up Games | Play Free Online | PixelZapRush</title>
+  <meta name="description" content="Play the best free Dress-up games online on PixelZapRush. Page 1 of our curated collection.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #0b0f19;
+      --bg-card: rgba(22, 28, 45, 0.7);
+      --accent: #6c5ce7;
+      --accent-glow: rgba(108, 92, 231, 0.4);
+      --text-white: #ffffff;
+      --text-gray: #a0aec0;
+      --neon-green: #00f2fe;
+      --neon-pink: #ff007f;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: radial-gradient(circle at top, #1a1b36 0%, var(--bg-dark) 70%);
+      color: var(--text-white);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* Top Navbar Styles */
+    .top-navbar {
+      background: rgba(11, 15, 25, 0.85);
+      backdrop-filter: blur(15px);
+      -webkit-backdrop-filter: blur(15px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      position: sticky;
+      top: 0;
+      width: 100%;
+      height: 70px;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      transition: background 0.3s;
+    }
+
+    .top-nav-container {
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .top-nav-logo {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--text-white);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: linear-gradient(135deg, #ffffff 30%, var(--text-gray) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .top-nav-logo span {
+      -webkit-text-fill-color: initial;
+    }
+
+    .top-nav-menu {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .top-nav-item {
+      color: var(--text-gray);
+      text-decoration: none;
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+
+    .top-nav-item:hover, .top-nav-item.active {
+      color: var(--text-white);
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    /* Dropdown Styles */
+    .top-nav-dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .top-nav-dropdown-btn {
+      background: none;
+      border: none;
+      color: var(--text-gray);
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 8px 16px;
+      cursor: pointer;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .top-nav-dropdown-btn:hover, .top-nav-dropdown.active .top-nav-dropdown-btn {
+      color: var(--text-white);
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .top-nav-dropdown-content {
+      display: none;
+      position: absolute;
+      right: 0;
+      background: #111519;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      min-width: 180px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+      border-radius: 8px;
+      z-index: 1010;
+      padding: 8px 0;
+      margin-top: 5px;
+    }
+
+    .top-nav-dropdown-content a {
+      color: var(--text-gray);
+      padding: 10px 20px;
+      text-decoration: none;
+      display: block;
+      font-size: 0.95rem;
+      font-weight: 500;
+      transition: all 0.2s ease;
+      text-align: left;
+    }
+
+    .top-nav-dropdown-content a:hover, .top-nav-dropdown-content a.active {
+      color: var(--text-white);
+      background: var(--accent);
+    }
+
+    .top-nav-dropdown:hover .top-nav-dropdown-content {
+      display: block;
+    }
+
+    /* Toggle button for Mobile */
+    .top-nav-toggle {
+      display: none;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 24px;
+      height: 18px;
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      padding: 0;
+      z-index: 1020;
+    }
+
+    .top-nav-toggle .toggle-bar {
+      width: 100%;
+      height: 2px;
+      background-color: var(--text-white);
+      border-radius: 2px;
+      transition: all 0.3s ease;
+    }
+
+    header {
+      padding: 15px 20px 8px;
+      text-align: center;
+      position: relative;
+    }
+
+    header::after {
+      display: none;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #ffffff 30%, var(--text-gray) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      font-size: 0.9rem;
+      color: var(--text-gray);
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* Categories Navigation inside Footer */
+    .categories-nav {
+      padding: 15px 0;
+      margin-bottom: 20px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .categories-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .category-link {
+      color: var(--text-gray);
+      text-decoration: none;
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 8px 18px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      transition: all 0.3s ease;
+    }
+
+    .category-link:hover, .category-link.active {
+      color: var(--text-white);
+      background: var(--accent);
+      border-color: var(--accent);
+      box-shadow: 0 4px 12px rgba(108, 92, 231, 0.3);
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px 20px 80px;
+      flex-grow: 1;
+      width: 100%;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 30px;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border-radius: 16px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(12px);
+      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-radius: 16px;
+      box-shadow: 0 0 40px var(--accent-glow);
+      opacity: 0;
+      transition: opacity 0.4s ease;
+      z-index: -1;
+    }
+
+    .card:hover {
+      transform: translateY(-8px);
+      border-color: var(--accent);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    .thumbnail-wrapper {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%; /* 16:9 Aspect Ratio */
+      overflow: hidden;
+      background: #000;
+    }
+
+    .thumbnail-wrapper img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+
+    .card:hover .thumbnail-wrapper img {
+      transform: scale(1.08);
+    }
+
+    .card-body {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .card-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: var(--text-white);
+    }
+
+    .card-description {
+      font-size: 0.95rem;
+      color: var(--text-gray);
+      margin-bottom: 20px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex-grow: 1;
+    }
+
+    .tag-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .tag {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-gray);
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      border: 1px solid rgba(255, 255, 255, 0.02);
+    }
+
+    .play-btn {
+      display: block;
+      width: 100%;
+      text-align: center;
+      background: var(--accent);
+      color: var(--text-white);
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background 0.3s ease, transform 0.2s ease;
+      box-shadow: 0 4px 12px rgba(108, 92, 231, 0.2);
+    }
+
+    .play-btn:hover {
+      background: #7d6ef9;
+      box-shadow: 0 6px 20px rgba(108, 92, 231, 0.4);
+    }
+
+    .play-btn:active {
+      transform: scale(0.98);
+    }
+
+    /* Pagination */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      margin-top: 40px;
+      padding: 20px 0;
+      flex-wrap: wrap;
+    }
+
+    .page-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      height: 40px;
+      padding: 0 14px;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      color: var(--text-gray);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: all 0.3s ease;
+      cursor: pointer;
+    }
+
+    .page-link:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text-white);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .page-link.active {
+      background: var(--accent);
+      color: var(--text-white);
+      border-color: var(--accent);
+      box-shadow: 0 4px 12px rgba(108, 92, 231, 0.3);
+    }
+
+    .page-link.disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+
+    .page-arrow {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      color: var(--text-gray);
+      font-size: 0.85rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      background: rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 768px) {
+      .top-nav-toggle {
+        display: flex;
+      }
+
+      .top-nav-menu {
+        position: fixed;
+        top: 70px;
+        right: -100%;
+        width: 250px;
+        height: calc(100vh - 70px);
+        background: #0b0f19;
+        border-left: 1px solid rgba(255, 255, 255, 0.05);
+        flex-direction: column;
+        align-items: stretch;
+        padding: 30px 20px;
+        gap: 10px;
+        transition: right 0.3s ease;
+        z-index: 999;
+      }
+
+      .top-nav-menu.open {
+        right: 0;
+      }
+
+      .top-nav-item, .top-nav-dropdown-btn {
+        width: 100%;
+        text-align: left;
+        padding: 12px 15px;
+      }
+
+      .top-nav-dropdown-content {
+        position: static;
+        display: block;
+        background: rgba(255, 255, 255, 0.02);
+        box-shadow: none;
+        border: none;
+        border-radius: 0;
+        margin-top: 0;
+        padding-left: 15px;
+      }
+
+      .top-nav-toggle.active .toggle-bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+      }
+      .top-nav-toggle.active .toggle-bar:nth-child(2) {
+        opacity: 0;
+      }
+      .top-nav-toggle.active .toggle-bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+      }
+
+      h1 {
+        font-size: 1.2rem;
+      }
+      .subtitle {
+        font-size: 0.8rem;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+    <nav class="top-navbar">
+    <div class="top-nav-container">
+      <a href="index.html" class="top-nav-logo">
+        <span>🎮</span> PixelZapRush
+      </a>
+
+      <button class="top-nav-toggle" id="topNavToggle" aria-label="Toggle menu">
+        <span class="toggle-bar"></span>
+        <span class="toggle-bar"></span>
+        <span class="toggle-bar"></span>
+      </button>
+      <div class="top-nav-menu" id="topNavMenu">
+        <a href="index.html" class="top-nav-item ">Home</a>
+        <a href="category-casual.html" class="top-nav-item ">Casual</a>
+        <a href="category-puzzle.html" class="top-nav-item ">Puzzle</a>
+        <a href="category-adventure.html" class="top-nav-item ">Adventure</a>
+        <a href="category-simulation.html" class="top-nav-item ">Simulation</a>
+        <a href="category-agility.html" class="top-nav-item ">Agility</a>
+        <a href="category-racing-driving.html" class="top-nav-item ">Racing & Driving</a>
+        <div class="top-nav-dropdown active">
+          <button class="top-nav-dropdown-btn">More ▾</button>
+          <div class="top-nav-dropdown-content">
+            <a href="category-shooter.html" class="">Shooter</a>
+            <a href="category-dress-up.html" class="active">Dress-up</a>
+            <a href="category-strategy.html" class="">Strategy</a>
+            <a href="category-match-3.html" class="">Match-3</a>
+            <a href="category-battle.html" class="">Battle</a>
+            <a href="category-io.html" class="">.IO</a>
+            <a href="category-merge.html" class="">Merge</a>
+            <a href="category-cards.html" class="">Cards</a>
+            <a href="category-mahjong-connect.html" class="">Mahjong & Connect</a>
+            <a href="category-sports.html" class="">Sports</a>
+            <a href="category-art.html" class="">Art</a>
+            <a href="category-educational.html" class="">Educational</a>
+            <a href="category-bubble-shooter.html" class="">Bubble Shooter</a>
+            <a href="category-boardgames.html" class="">Boardgames</a>
+            <a href="category-quiz.html" class="">Quiz</a>
+            <a href="category-basketball.html" class="">Basketball</a>
+            <a href="category-cooking.html" class="">Cooking</a>
+            <a href="category-football.html" class="">Football</a>
+            <a href="category-care.html" class="">Care</a>
+            <a href="category-bike.html" class="">Bike</a>
+            <a href="category-car.html" class="">Car</a>
+            <a href="category-controller.html" class="">Controller</a>
+            <a href="category-escape.html" class="">Escape</a>
+            <a href="category-flash.html" class="">Flash</a>
+            <a href="category-fps.html" class="">FPS</a>
+            <a href="category-horror.html" class="">Horror</a>
+            <a href="category-mahjong.html" class="">Mahjong</a>
+            <a href="category-minecraft.html" class="">Minecraft</a>
+            <a href="category-pool.html" class="">Pool</a>
+            <a href="category-soccer.html" class="">Soccer</a>
+            <a href="category-stickman.html" class="">Stickman</a>
+            <a href="category-thinky.html" class="">Thinky</a>
+            <a href="category-tower-defense.html" class="">Tower Defense</a>
+            <a href="category-mobile2-095.html" class="">Mobile2,095</a>
+            <a href="category-3d1-383.html" class="">3D1,383</a>
+            <a href="category-destroy254.html" class="">Destroy254</a>
+            <a href="category-car373.html" class="">Car373</a>
+            <a href="category-speed155.html" class="">Speed155</a>
+            <a href="category-police57.html" class="">Police57</a>
+            <a href="category-jigsaw.html" class="">Jigsaw</a>
+          </div>
+        </div>
+        <div class="top-nav-dropdown ">
+          <button class="top-nav-dropdown-btn">About ▾</button>
+          <div class="top-nav-dropdown-content">
+            <a href="contact.html" class="">Contact Us</a>
+            <a href="privacy.html" class="">Privacy Policy</a>
+            <a href="terms.html" class="">Terms of Service</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Dress-up Games</h1>
+    <p class="subtitle">Play the best free Dress-up games online on PixelZapRush. Page 1 of our curated collection.</p>
+  </header>
+
+    <!-- Dedicated Search Bar Row -->
+  <div class="search-bar-row">
+    <div class="search-bar-row-container">
+      <input type="text" id="searchInput" placeholder="Search for your favorite games..." autocomplete="off">
+      <div id="searchSuggestions" class="search-suggestions"></div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="grid">
+            <!-- Card: Stardom Alt-Girls Fashion Duel -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/304.webp" alt="Stardom Alt-Girls Fashion Duel Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Stardom Alt-Girls Fashion Duel</h2>
+          <p class="card-description">Welcome to the world of daring alternative glamour! Meet two star heroines - Sydney and Sabrina. Help them go beyond the usual and try on the most daring alternative images: from a gentle soft-grunge princess to a gloomy rock diva. In the game, you can make bright makeup with arrows and sparkles; create unusual hairstyles; collect memorable outfits from tops, corsets, mini skirts and oversized jackets. Create your own collection of stunning Alt-girl looks!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="stardom-alt-girls-fashion-duel.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Suitable Outfit Dressup -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/321.webp" alt="Suitable Outfit Dressup Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Suitable Outfit Dressup</h2>
+          <p class="card-description">Suitable Outfit Dressup is a fashionable and exciting dress up game. If you are a big fan of fashion games, then you will surely enjoy this game! Try different dress styles, hairstyles to make your anime girl character stand out and show off your skills as a fashion line master in the game! Have fun playing!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="suitable-outfit-dressup.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Paper Doll Diary - Chibi Dolls -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/322.webp" alt="Paper Doll Diary - Chibi Dolls Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Paper Doll Diary - Chibi Dolls</h2>
+          <p class="card-description">With Paper Doll Diary - Chibi Dolls, users can unleash their creativity and design unique outfits for their dolls. The game offers a wide range of clothing options, accessories, and hairstyles to choose from, allowing players to mix and match to their heart's content.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="paper-doll-diary-chibi-dolls.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Fashion Heroes Academy -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/347.webp" alt="Fashion Heroes Academy Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Fashion Heroes Academy</h2>
+          <p class="card-description">Welcome to the Academy of Fashion Heroines, a place where style and superpowers go hand in hand! Three brave girls entered the academy in order not only to reveal their abilities, but also to create their own unique image. And you will help them in this. Choose outfits for studying, training and super battles. Experiment with makeup and accessories. Let each schoolgirl become a superhero and a style icon at the same time!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="fashion-heroes-academy.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Hot & Cold Winter Style -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/357.webp" alt="Hot & Cold Winter Style Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Hot & Cold Winter Style</h2>
+          <p class="card-description">Princesses Eliza and Milana are going on winter vacation, but for each of the girls, winter vacation will be special. Eliza lives in snowy regions and loves fluffy fur coats, warm scarves and winter dresses. Milana celebrates her holidays under palm trees and chooses swimsuits, light capes and bright accessories. Players will have to create stylish images, combining the cold shine of snow and the warm glow of the tropics. Help Eliza and Milana become the most fashionable princesses of winter!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="hot-cold-winter-style.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Dark Academia Wedding -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/367.webp" alt="Dark Academia Wedding Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Dark Academia Wedding</h2>
+          <p class="card-description">Step into a world of moody elegance in Dark Academia Wedding! Help the bride and groom prepare for their enchanting, gothic-inspired celebration. Choose vintage dresses, romantic accessories, and rich color palettes that capture the essence of dark academia. From candlelit ceremonies to mysterious venues, every detail matters. Create the perfect blend of classic romance and intellectual charm in this stylish wedding dress up game!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="dark-academia-wedding.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Barbee Met Gala Transformation -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/379.webp" alt="Barbee Met Gala Transformation Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Barbee Met Gala Transformation</h2>
+          <p class="card-description">Barbee and her friends have a big night ahead—the Met Gala! It’s your job to help each of them get dressed up and feel amazing. Whether someone’s into bold colors or classic glam, you get to style their look from head to toe and make sure they’re ready to walk the red carpet.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="barbee-met-gala-transformation.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Sailor Chic vs Pirate Charm -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/394.webp" alt="Sailor Chic vs Pirate Charm Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Sailor Chic vs Pirate Charm</h2>
+          <p class="card-description">Welcome to the trendy sea adventure! Two charming heroines are waiting for you in game: the humble little mermaid Amelie and the brave pirate princess Jacqueline. Amelie is the epitome of maritime glamour. Her style is white dresses, gold jewelry and wind in her hair. Jacqueline is the real pirate queen. She wears leather jackets, spectacular corsets and accessories with pirate symbols. Who will win in this fashionable battle - a sophisticated beauty or a daring sea robber? The choice is yours!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="sailor-chic-vs-pirate-charm.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: BFFs Golden Hour -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/405.webp" alt="BFFs Golden Hour Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">BFFs Golden Hour</h2>
+          <p class="card-description">Fall is here and the BFFs decided to take the perfect photos with their Instagram-worthy makeup and outfits. Elsa, Ellie, Kiki, and Regina are all in charge of getting amazing images for their fall aesthetics album, so make sure you come and join them in their BFFs Golden Hour dress up game for girls! Help them get ready by dressing them up with a variety of beautiful outfits, accessories and makeup styles then snap the most instagrammable pictures you need for their album. Enjoy playing!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="bffs-golden-hour.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Shopaholic Black Friday -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/419.webp" alt="Shopaholic Black Friday Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Shopaholic Black Friday</h2>
+          <p class="card-description">Experience fashion fun like never before with the Shopaholic Black Friday game! Navigate through makeup products, and indulge in chic fashion pieces. Hit the mall, shop as many items as you can before the time runs out, and then return for another styling adventure. Explore an array of lipstick hues, experiment with smoky eyes, or go for colorful shadows, and browse through fashionable dresses, trendy tops, and stylish shoes. Complete the look with dazzling accessories and designer bags.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="shopaholic-black-friday.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Dolphin Couple Underwater Dress Up -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/437.webp" alt="Dolphin Couple Underwater Dress Up Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Dolphin Couple Underwater Dress Up</h2>
+          <p class="card-description">In Dolphin Couple Underwater Dress Up, you get to explore a vibrant underwater world where two playful dolphins are ready to get glammed up! This charming dress-up game lets you choose outfits, accessories, and fun props to create a stylish underwater look for both dolphins.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="dolphin-couple-underwater-dress-up.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Style Icons: 2024 Rewind Edition -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/439.webp" alt="Style Icons: 2024 Rewind Edition Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Style Icons: 2024 Rewind Edition</h2>
+          <p class="card-description">Relive 2024’s hottest fashion trends in Style Icons: 2024 Rewind Edition! From TikTok-inspired makeup to glamorous red carpet looks, this game brings together the best dress-up challenges of the year! Style iconic outfits, create bold beauty looks, and transform your favorite characters for every occasion—festivals, dates, holidays, and more! Are you ready to be the ultimate fashion trendsetter? Play now and own the style game!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="style-icons-2024-rewind-edition.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Wednesday Dark Academia -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/498.webp" alt="Wednesday Dark Academia Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Wednesday Dark Academia</h2>
+          <p class="card-description">With Wednesday Dark Academia, you can choose from various unique and stylish outfits, accessories, and makeup options. Start with her makeup, creating a look that's perfect for school or the ballroom. Play dark lipstick and eyeshadow, and with a little bit of imagination, you can create a look that's all your own. Next, dress her up for a fun day at school, and then see what party look you can put together for her. Style her hair and pick the right accessories for a complete look.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="wednesday-dark-academia.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Celebrity Wednesday Addams Style -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/580.webp" alt="Celebrity Wednesday Addams Style Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Celebrity Wednesday Addams Style</h2>
+          <p class="card-description">Indulge in the iconic and bewitching Celebrity Wednesday Addams Style! Embrace the darkly chic aesthetics, explore mesmerizing outfits, and channel your inner gothic elegance. Discover how celebrities rock the macabre charm of Wednesday Addams with a modern twist. Unleash your inner darkness and redefine elegance with a touch of the mysterious.</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="celebrity-wednesday-addams-style.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: The Prism City Detectives -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/585.webp" alt="The Prism City Detectives Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">The Prism City Detectives</h2>
+          <p class="card-description">Embark on a vibrant adventure with "The Prism City Detectives" and join Luna, Ruby, Skye, Willow, Daisy, Violet, and Lumi in restoring color to their monochrome city! Explore dazzling dress-up levels and unravel hidden objects mysteries to find the missing Rainbow Gem and bring back the hues of unity.</p>
+          <div class="tag-container">
+            <span class="tag">Puzzle</span>
+<span class="tag">Dress-up</span>
+          </div>
+          <a href="the-prism-city-detectives.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Celebrities Get Ready For Christmas -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/592.webp" alt="Celebrities Get Ready For Christmas Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Celebrities Get Ready For Christmas</h2>
+          <p class="card-description">Step into the world of ‘Celebrities Get Ready for Christmas’! Join your favorite stars as they prepare for the festive season. Explore dazzling holiday outfits, glamorous decorations, and witness the magic of Christmas through the eyes of celebrities. Get ready for a star-studded holiday celebration! Play and have fun!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="celebrities-get-ready-for-christmas.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Ellie And Friends Art Bloom Aesthetic -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/594.webp" alt="Ellie And Friends Art Bloom Aesthetic Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Ellie And Friends Art Bloom Aesthetic</h2>
+          <p class="card-description">Ellie And Friends Art Bloom Aesthetic is all about exploring creativity through unique fashion and art! Dress them up in colorful outfits, mix and match funky accessories, and dive into the world of artistic expression. From painting and drawing to choosing the perfect look, this game lets you celebrate individuality and artistic flair with Ellie and her friends. Get ready to unleash your inner artist!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="ellie-and-friends-art-bloom-aesthetic.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Ocean Kids Back To School -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/628.webp" alt="Ocean Kids Back To School Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Ocean Kids Back To School</h2>
+          <p class="card-description">Welcome to Ocean Kids Back to school. It’s back to school time for these Kids. Can you help them get ready for their first day of classes? They’ll need to pick some cool outfits, new hairstyles, accessories, and school supplies too in this online dress-up and design game for girls. After you’re all done, help them to repair their vespa. Play and have fun!</p>
+          <div class="tag-container">
+            <span class="tag">Art</span>
+<span class="tag">Dress-up</span>
+          </div>
+          <a href="ocean-kids-back-to-school.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Princesses of Quadrobics -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/638.webp" alt="Princesses of Quadrobics Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Princesses of Quadrobics</h2>
+          <p class="card-description">Two beautiful princesses, Eliza and the Little Mermaid, are waiting for your help in creating the perfect images for practicing Quadrobics. First, create a gentle but expressive makeup for each of the girls and put your hair in a comfortable hairstyle. Then choose dresses, jewelry and accessories. But the adventures don't end there! Complete the look by putting masks in the form of adorable animals on the princesses. After all, this is a mandatory part of the Quadrobics trend!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="princesses-of-quadrobics.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+
+      <!-- Card: Highschool Mean Girls 3 -->
+      <article class="card">
+        <div class="thumbnail-wrapper">
+          <img src="images/669.webp" alt="Highschool Mean Girls 3 Cover" loading="lazy">
+        </div>
+        <div class="card-body">
+          <h2 class="card-title">Highschool Mean Girls 3</h2>
+          <p class="card-description">Play the Highschool Mean Girls 3 game and get ready to join 6 unique characters in the wild world of fashion drama in this brand-new dress-up game for girls. Test your fashion guru skills and transform high school wallflowers into show-stopping style icons. Rack up those style credits with a fabulous curated wardrobe and accessories. This dress-up game is where high school drama meets fashion week, straight from your screen. Happy playing!</p>
+          <div class="tag-container">
+            <span class="tag">Dress-up</span>
+          </div>
+          <a href="highschool-mean-girls-3.html" class="play-btn">Play Now &rarr;</a>
+        </div>
+      </article>
+    </div>
+    <div class="pagination"><span class="page-link disabled">&laquo; Prev</span><span class="page-link active">1</span><a href="category-dress-up-2.html" class="page-link">2</a><a href="category-dress-up-2.html" class="page-link page-arrow">Next &raquo;</a></div>
+  </div>
+
+  <footer>
+      <nav class="categories-nav">
+    <div class="categories-container">
+      <a href="index.html" class="category-link ">All Games</a>
+      <a href="category-io.html" class="category-link ">.IO</a>
+      <a href="category-3d1-383.html" class="category-link ">3D1,383</a>
+      <a href="category-adventure.html" class="category-link ">Adventure</a>
+      <a href="category-agility.html" class="category-link ">Agility</a>
+      <a href="category-art.html" class="category-link ">Art</a>
+      <a href="category-basketball.html" class="category-link ">Basketball</a>
+      <a href="category-battle.html" class="category-link ">Battle</a>
+      <a href="category-bike.html" class="category-link ">Bike</a>
+      <a href="category-boardgames.html" class="category-link ">Boardgames</a>
+      <a href="category-bubble-shooter.html" class="category-link ">Bubble Shooter</a>
+      <a href="category-car.html" class="category-link ">Car</a>
+      <a href="category-car373.html" class="category-link ">Car373</a>
+      <a href="category-cards.html" class="category-link ">Cards</a>
+      <a href="category-care.html" class="category-link ">Care</a>
+      <a href="category-casual.html" class="category-link ">Casual</a>
+      <a href="category-controller.html" class="category-link ">Controller</a>
+      <a href="category-cooking.html" class="category-link ">Cooking</a>
+      <a href="category-destroy254.html" class="category-link ">Destroy254</a>
+      <a href="category-dress-up.html" class="category-link active">Dress-up</a>
+      <a href="category-educational.html" class="category-link ">Educational</a>
+      <a href="category-escape.html" class="category-link ">Escape</a>
+      <a href="category-flash.html" class="category-link ">Flash</a>
+      <a href="category-football.html" class="category-link ">Football</a>
+      <a href="category-fps.html" class="category-link ">FPS</a>
+      <a href="category-horror.html" class="category-link ">Horror</a>
+      <a href="category-jigsaw.html" class="category-link ">Jigsaw</a>
+      <a href="category-mahjong.html" class="category-link ">Mahjong</a>
+      <a href="category-mahjong-connect.html" class="category-link ">Mahjong & Connect</a>
+      <a href="category-match-3.html" class="category-link ">Match-3</a>
+      <a href="category-merge.html" class="category-link ">Merge</a>
+      <a href="category-minecraft.html" class="category-link ">Minecraft</a>
+      <a href="category-mobile2-095.html" class="category-link ">Mobile2,095</a>
+      <a href="category-police57.html" class="category-link ">Police57</a>
+      <a href="category-pool.html" class="category-link ">Pool</a>
+      <a href="category-puzzle.html" class="category-link ">Puzzle</a>
+      <a href="category-quiz.html" class="category-link ">Quiz</a>
+      <a href="category-racing-driving.html" class="category-link ">Racing & Driving</a>
+      <a href="category-shooter.html" class="category-link ">Shooter</a>
+      <a href="category-simulation.html" class="category-link ">Simulation</a>
+      <a href="category-soccer.html" class="category-link ">Soccer</a>
+      <a href="category-speed155.html" class="category-link ">Speed155</a>
+      <a href="category-sports.html" class="category-link ">Sports</a>
+      <a href="category-stickman.html" class="category-link ">Stickman</a>
+      <a href="category-strategy.html" class="category-link ">Strategy</a>
+      <a href="category-thinky.html" class="category-link ">Thinky</a>
+      <a href="category-tower-defense.html" class="category-link ">Tower Defense</a>
+    </div>
+  </nav>
+    <p style="margin-top: 15px;">&copy; 2026 Dress-up Games. Deployed on PixelZapRush.github.io.</p>
+    <div class="footer-links" style="margin-top: 15px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <a href="contact.html" style="color: var(--text-gray); text-decoration: none; font-size: 0.9rem;">Contact Us</a>
+  <span style="color: rgba(255, 255, 255, 0.15);">|</span>
+  <a href="privacy.html" style="color: var(--text-gray); text-decoration: none; font-size: 0.9rem;">Privacy Policy</a>
+  <span style="color: rgba(255, 255, 255, 0.15);">|</span>
+  <a href="terms.html" style="color: var(--text-gray); text-decoration: none; font-size: 0.9rem;">Terms of Service</a>
+  <span style="color: rgba(255, 255, 255, 0.15);">|</span>
+  <a href="sitemap.html" style="color: var(--text-gray); text-decoration: none; font-size: 0.9rem;">HTML Sitemap</a>
+  <span style="color: rgba(255, 255, 255, 0.15);">|</span>
+  <a href="sitemap.txt" style="color: var(--text-gray); text-decoration: none; font-size: 0.9rem;">TXT Sitemap</a>
+</div>
+
+  </footer>
+
+  <script src="ads-manager.js" defer></script>
+  <script src="search.js" defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const topNavToggle = document.getElementById('topNavToggle');
+      const topNavMenu = document.getElementById('topNavMenu');
+      if (topNavToggle && topNavMenu) {
+        topNavToggle.addEventListener('click', () => {
+          topNavMenu.classList.toggle('open');
+          topNavToggle.classList.toggle('active');
+        });
+      }
+    });
+  </script>
+</body>
+</html>
