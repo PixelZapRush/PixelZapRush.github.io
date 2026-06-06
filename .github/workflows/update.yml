@@ -19,7 +19,7 @@ jobs:
 
       - run: pip install -U gdown
 
-      - run: gdown 1WZ483XlyyQEyAdNs_FiUCFNr5XJ0xlKA
+      - run: gdown 1IFMb_svOSNKDv02SPcIJkCFxQrbtCIYx
 
       - run: unzip PixelZapRush.github.io.zip
 
